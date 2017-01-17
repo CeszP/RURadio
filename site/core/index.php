@@ -26,7 +26,7 @@
 			<iframe class="newi" height="300" src="https://www.youtube.com/embed/Qok9Ialei4c" frameborder="0" allowfullscreen>CONTENIDO NO DISPONIBLE</iframe>
 			<br>
 			
-			 En la estela de Daft Punk y su legendario Interstella 5555, la banda de Brandon Flowers presentó el segundo vídeo para “Miss Atomic Bomb”. El más reciente sencillo extraído de Battle Born ya había tenido tratamiento audiovisual a principios de noviembre, con un clip que retrataba la vida en la gira de The Killers. Ahora, llegó el turno de la trágica historia de amor que combina imágenes animadas con filmaciones live-action.
+			 En la estela de Daft Punk y su legendario Interstella 5555, la banda de Brandon Flowers presentó el segundo vídeo para “Miss Atomic Bomb”. El más reciente sencillo extraído de Battle Born ya había tenido tratamiento audiovisual a principios de noviembre, con un clip que retrataba la vida en la gira de The Killers. Ahora, llegó el turno de la trágica historia de amor que combina imágenes animadas con filmaciones live-action.S
 		</p>
 		<p class="col">
 			<img class="newi" src="../img/logo_esp2.png" alt=""><br>
